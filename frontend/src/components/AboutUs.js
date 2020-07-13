@@ -6,7 +6,7 @@ function AboutUS() {
       <h1></h1>
       <ul>
         <li>
-          <img src="https://images.pexels.com/photos/2250276/pexels-photo-2250276.jpeg?cs=srgb&dl=woman-wearing-white-dress-bending-down-2250276.jpg&fm=jpg" width='100px' height='200px'/>
+          <img src="frontend/src/20200128_075854.dorisPic.jpg" width='100x' height='100px'/>
           <p>Doris</p>
         </li>
         {/* <li>
@@ -15,7 +15,7 @@ function AboutUS() {
         </li> */}
       </ul>
       <div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p> Queens college Student. freshman developer</p>
       </div>
     </div>
   )
